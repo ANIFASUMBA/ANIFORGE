@@ -42,3 +42,13 @@ Focusing on the architecture of scalable full-stack applications, local AI integ
 1. **Clone the repository:**
 ```bash
    git clone [https://github.com/ANIFASUMBA/ANIFORGE.git](https://github.com/ANIFASUMBA/ANIFORGE.git)
+
+---
+
+### 3. 📸 Gallery / Visuals
+Nothing sells a frontend design faster than a visual. Since you can't host the live cloud database on GitHub, drop an image placeholder right under your main title banner so visitors instantly see the polished UI.
+
+```markdown
+## 📸 Interface Preview
+![Aniforge Hero Dashboard](https://github.com/ANIFASUMBA/ANIFORGE/blob/main/screenshot.png?raw=true)
+*Figure 1: Main landing page interface highlighting system architecture and core competencies.*
