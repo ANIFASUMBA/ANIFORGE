@@ -26,3 +26,9 @@ Aniforge is an innovative E-learning platform built using Odoo's framework archi
 Aniforge/
 ├── homepage.xml       # Main core layout & frontend architecture views
 └── README.md          # Project documentation and system overview
+
+---
+
+## 👩‍💻 About the Author
+Designed, engineered, and structured by **Anifa Sumba**, Founder & Lead Architect. 
+Focusing on the architecture of scalable full-stack applications, local AI integrations, and building practical engineering solutions.
