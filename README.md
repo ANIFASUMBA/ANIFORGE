@@ -32,3 +32,8 @@ Aniforge/
 ## 👩‍💻 About the Author
 Designed, engineered, and structured by **Anifa Sumba**, Founder & Lead Architect. 
 Focusing on the architecture of scalable full-stack applications, local AI integrations, and building practical engineering solutions.
+
+## 🔮 Future Roadmap
+- [ ] **Local AI Integration:** Implementing lightweight local LLMs to provide automated, real-time feedback on student code submissions.
+- [ ] **Advanced Analytics Dashboard:** Building deep analytical telemetry to track student progress bottlenecks.
+- [ ] **Custom Module Migration:** Packaging this structural layout into a standalone custom Odoo addon for deployment on self-hosted environments.
