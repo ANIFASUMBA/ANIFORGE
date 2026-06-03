@@ -37,3 +37,8 @@ Focusing on the architecture of scalable full-stack applications, local AI integ
 - [ ] **Local AI Integration:** Implementing lightweight local LLMs to provide automated, real-time feedback on student code submissions.
 - [ ] **Advanced Analytics Dashboard:** Building deep analytical telemetry to track student progress bottlenecks.
 - [ ] **Custom Module Migration:** Packaging this structural layout into a standalone custom Odoo addon for deployment on self-hosted environments.
+
+## 🚀 How to View the Architecture
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/ANIFASUMBA/ANIFORGE.git](https://github.com/ANIFASUMBA/ANIFORGE.git)
