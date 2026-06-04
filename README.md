@@ -10,7 +10,7 @@ Aniforge is an innovative E-learning platform built using Odoo's framework archi
 * **Frontend Engine:** Odoo QWeb XML / HTML5 Architecture
 * **Styling Framework:** Custom SCSS/CSS Asset Pipeline
 * **Target Environment:** Scalable Full-Stack Systems Integration
-* **Core Philosophy:** Real-time competency validation and educational tool accessibility
+* **Core Philosophy:** Real-time competency validation and educational tool accessibility.
 ---
 
 ## 🌟 Key Features
