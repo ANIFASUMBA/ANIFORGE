@@ -22,7 +22,7 @@ Aniforge is an innovative E-learning platform built using Odoo's framework archi
 ## 📂 Project Structure
 ```text
 Aniforge/
-├── homepage.xml       # Main core layout & frontend architecture views
+├── homepage.xml       # Main core layout & frontend architecture views.
 └── README.md          # Project documentation and system overview
 
 ---
