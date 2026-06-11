@@ -19,7 +19,6 @@ Aniforge is an innovative E-learning platform built using Odoo's framework archi
 * **Metrics-Driven Design:** Built with foundational pillars to bridge structural gaps in university software tools.
 
 ---
-
 ## 📂 Project Structure
 ```text
 Aniforge/
