@@ -3,7 +3,6 @@
 Aniforge is an innovative E-learning platform built using Odoo's framework architecture. It is designed to modernize digital education by tracking student metrics and validating core engineering competencies in real time. 
 
 > "Software mastery isn't about memorizing code—it's about engineering systems that scale."
-
 ---
 ## 🛠️ Tech Stack & Architecture
 
